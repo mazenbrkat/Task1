@@ -12,5 +12,5 @@
 <p>2-The benefit => don't write $ repeatly</p>
 
 <p>لما يكون عندك رقم يمثل فلوس ما اكتبش كل شويه $ اقدر انا اعوضه ب(Currency) C وتضاف تلقائا فيستخدم في حاجة ليها علاقة بالفواتير و رواتب
-
-
+<h2>3-Output Screenshot</h2>
+<img src="output.png" alt="output Screenshot" width="700">
